@@ -40,7 +40,7 @@ const Mobilenav = () => {
             <p className="text-[26px] font-extrabold text-white">Yoom</p>
           </Link>
           <div className="flex h-[calc(100vh-72px)] flex-col justify-between overflow-y-auto">
-            <SheetClose asChild key={link.route}>
+            <SheetClose asChild >
               <section className="flex h-full flex-col gap-6 pt-16 text-white">
                 {sidebarLinks.map((link) => {
                   const isActive =
