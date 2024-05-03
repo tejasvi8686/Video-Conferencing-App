@@ -7,7 +7,7 @@ import { useUser } from "@clerk/nextjs";
 import { StreamCall, StreamTheme } from "@stream-io/video-react-sdk";
 import React, { useState } from "react";
 
-const Meeting = ({ params : {id} }: { params: { id: string } }) => {
+const Meeting = ({ params: { id } }: { params: { id: string } }) => {
   const { isLoaded, user } = useUser();
   const { call, isCallLoading } = useGetCallById(id);
   const [isSetupComplete, setIsSetupComplete] = useState(false);
@@ -18,13 +18,11 @@ const Meeting = ({ params : {id} }: { params: { id: string } }) => {
     <main className="h-screen w-full">
       <StreamCall call={call}>
         <StreamTheme>
-        {!isSetupComplete ? (
-          <MeetingSetup  />
-          // setIsSetupComplete={setIsSetupComplete}
-        ) : (
-          <MeetingRoom />
-        
-        )}
+          {!isSetupComplete ? (
+            <MeetingSetup setIsSetupComplete={setIsSetupComplete} />
+          ) : (
+            <MeetingRoom />
+          )}
         </StreamTheme>
       </StreamCall>
     </main>
