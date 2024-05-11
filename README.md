@@ -59,7 +59,7 @@ For Demo checkout following link👇: <br />
   
 </p>
 
-#### From
+#### Upcoming
 
 <p align="center">
 
@@ -67,7 +67,7 @@ For Demo checkout following link👇: <br />
   
 </p>
 
-#### Drag drop
+#### Previous
 
 <p align="center">
 
@@ -75,7 +75,7 @@ For Demo checkout following link👇: <br />
   
 </p>
 
-#### From view
+#### Personal Room
 
 <p align="center">
 
@@ -83,7 +83,7 @@ For Demo checkout following link👇: <br />
   
 </p>
 
-#### From publish
+#### Recording
 
 <p align="center">
 
@@ -91,7 +91,7 @@ For Demo checkout following link👇: <br />
   
 </p>
 
-#### From fill
+#### In Meeting
 
 <p align="center">
 
@@ -99,7 +99,7 @@ For Demo checkout following link👇: <br />
   
 </p>
 
-#### From check
+#### Setup
 
 <p align="center">
 
@@ -107,11 +107,15 @@ For Demo checkout following link👇: <br />
   
 </p>
 
+#### Copy Meeting link
+
 <p align="center">
 
   <img src="https://iili.io/JrrANbj.md.png" width="750" title="hover text">
   
 </p>
+
+#### Create Meeting
 
 <p align="center">
 
