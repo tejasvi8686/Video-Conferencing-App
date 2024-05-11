@@ -10,28 +10,38 @@
 
 ## 📑 Introduction
 
-Welcome to our Form Builder Application! This application allows you to create stunning forms with a drag-and-drop designer, customize them, and share them with others. It's built with Next.js, Dnd-kit library, TypeScript, Tailwind CSS, Vercel PostgreSQL, and Prisma as ORM.
+Built with the latest Next.js and TypeScript, this project replicates Zoom, a widely used video conferencing tool. It enables users to securely log in, create meetings and access various meeting functionalities such as recording, screen sharing, and managing participants.
 
 ## 💻 Technologies Used
-- **Next.js 13** with **AppRouter**: For building a scalable and efficient web application.
-- **Dnd-kit library**: To provide a smooth drag and drop experience.
-- **ServerActions**: For handling server-side operations.
-- **TypeScript**: For adding strong typing to enhance code quality and maintainability.
-- **Tailwindcss / Shadcn UI**: For styling and responsive design.
-- **Vercel PostgreSQL**: As the database solution.
-- **Prisma**: As the ORM to interact with the database.
+- Next.js
+- TypeScript
+- Clerk
+- getstream
+- shadcn
+- Tailwind CSS
 
 ## ✨ Features
-- **Responsive**: Works on any device, providing an optimal viewing experience.
-- **Drag and Drop Designer**: Create forms with ease using the intuitive drag and drop interface.
-- **Layout Fields**: Includes Title, SubTitle, Spacer, Separator, Paragraph for structuring the form.
-- **Form Fields**: Supports Text, Number, Select, Date, Checkbox, Textarea inputs.
-- **Customization**: Easily add and customize new fields as per requirements.
-- **Preview**: Form preview dialog to review before publishing.
-- **Sharing**: Share form URL for wider access.
-- **Submission/Validation**: Robust form submission and validation system.
-- **Analytics**: Track form stats including visits and submissions.
+👉 Authentication: Secure login with Clerk, social or email/password.
 
+👉 New Meeting: Start a meeting, adjust settings.
+
+👉 Meeting Controls: Manage recording, reactions, sharing, sound, etc.
+
+👉 Exit Meeting: Leave or end meetings.
+
+👉 Schedule Meetings: Input details for future meetings.
+
+👉 Past Meetings: Access details of previous meetings.
+
+👉 View Recordings: Review past meeting recordings.
+
+👉 Personal Room: Unique meeting link for instant meetings.
+
+👉 Join via Link: Easily join meetings with links.
+
+👉 Secure Real-time: Secure and real-time interactions.
+
+👉 Responsive Design: Optimized for all devices.
 
 
 For Demo checkout following link👇: <br />
