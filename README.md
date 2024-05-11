@@ -45,7 +45,7 @@ Built with the latest Next.js and TypeScript, this project replicates Zoom, a wi
 
 
 For Demo checkout following link👇: <br />
-[Nextjs Full stack Form builder Demo](https://ts-form-builder.vercel.app/) <br />
+[Full Stack Video Conferencing App with Next JS](https://yoom-app-woadzz.vercel.app/) <br />
 
 
 
@@ -55,7 +55,7 @@ For Demo checkout following link👇: <br />
 
 <p align="center">
 
-  <img src="https://iili.io/Jrrfzbt.md.png" width="750" title="hover text">
+  <img src="https://i.postimg.cc/c1QdKRnh/Screenshot-2024-05-08-192256.png" width="750" title="hover text">
   
 </p>
 
