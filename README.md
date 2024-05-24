@@ -1,4 +1,4 @@
-# Full Stack Video Conferencing App with Next JS 🔥
+# Full Stack Video Conferencing App with Next.JS 🔥
 
 ![GitHub stars](https://img.shields.io/github/stars/tejasvi8686/Video-Conferencing-App?style=social&logo=ApacheSpark&label=Stars)&nbsp;&nbsp;
 ![GitHub forks](https://img.shields.io/github/forks/tejasvi8686/Video-Conferencing-App?style=social&logo=KashFlow&maxAge=3600)&nbsp;&nbsp;
